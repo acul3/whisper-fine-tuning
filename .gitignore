@@ -1,0 +1,7 @@
+local_dataset/magic_data/*
+!local_dataset/magic_data/magic_data.py
+local_dataset/magic_data_conversation/*
+!local_dataset/magic_data_conversation/magic_data_conversation.py
+local_dataset/titlm/*
+!local_dataset/titlm/titlm.py
+models/*

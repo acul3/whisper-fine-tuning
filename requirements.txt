@@ -1,0 +1,11 @@
+audiomentations
+git+https://github.com/huggingface/datasets
+git+https://github.com/huggingface/transformers
+librosa 
+soundfile
+evaluate>=0.3.0
+jiwer
+more-itertools
+wandb
+bitsandbytes
+holoviews[recommended]
